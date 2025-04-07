@@ -1,0 +1,25 @@
+.conteiner{
+    width: 1000px;
+    height: 600px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+.box{
+    width: 200px;
+    height: 100px;    
+}
+
+.box1{
+    background-color: blue;
+}
+.box2{
+    background-color: green;
+}
+.box3{
+    background-color: yellow;
+}
